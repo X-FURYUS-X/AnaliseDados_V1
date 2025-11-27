@@ -1,0 +1,10 @@
+evidence_id,description,predicted_value,observed_value,significance
+1,CMB_low_multipole,0.98,0.97,2.1
+2,supernova_acceleration,-0.55,-0.53,3.4
+3,W_boson_mass,80.43,80.433,1.5
+4,muon_g-2,0.00116592061,0.00116592061,5.2
+5,hubble_tension,70.1,70.0,0.5
+6,galaxy_rotation_curves,N/A,N/A,4.8
+7,proton_radius,0.841,0.8409,0.8
+8,fermi_halo,18.98-21.53,20,6.0
+
