@@ -33,7 +33,7 @@ O código neste repositório valida as seguintes 8 evidências independentes, qu
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/GeometriaDourada/AnaliseDados_V1.git
+    git clone https://github.com/X-FURYUS-X/AnaliseDados_V1.git
     cd AnaliseDados_V1
     ```
 
